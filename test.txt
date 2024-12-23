@@ -6,4 +6,8 @@ test clone
 
 test after branch
 
+<<<<<<< HEAD
 test2 after branch master
+=======
+test2 after branch
+>>>>>>> develop
