@@ -2,4 +2,5 @@ test clone
 
 update in remote server
 
-update remote server2
+update remote serverxxxx
+check master
