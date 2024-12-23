@@ -2,5 +2,5 @@ test clone
 
 update in remote server
 
-update remote serverxxxx
-check master
+update remote server2
+branch change commit

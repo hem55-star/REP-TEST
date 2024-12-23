@@ -2,4 +2,8 @@ test clone
 
 update in remote server
 
+<<<<<<< HEAD
 update remote serverxxxx
+=======
+update remote server2
+>>>>>>> develop
