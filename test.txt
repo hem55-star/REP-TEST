@@ -13,3 +13,4 @@ test2 after branch
 >>>>>>> develop
 
 stash
+revert in public repo
